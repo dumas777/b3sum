@@ -5,6 +5,8 @@ A C implementation of the `b3sum` tool, as well as a reusable library
 
 [C implementation of BLAKE3]: https://github.com/BLAKE3-team/BLAKE3/tree/master/c
 
+##Note:  Forked so I could play with AI vulnerability scanning/fixing tools on github.  At this time I don't anticipate doing anything but possibly security fixes.
+
 ## Example
 
 An example program that hashes bytes from standard input and prints the
